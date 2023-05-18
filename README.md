@@ -24,10 +24,10 @@ To simulate the construction of delta 3D printer and to get in-depth knowledge o
 ## OUTPUT:
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/10304caa-3e0f-4c4a-bd73-3cadb477a64b)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
+<img height=30% width=50% src="https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066">
 
 ## Output:
-![Screenshot 2023-05-18 183918](https://github.com/ROHITJAIND/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/118707073/9b00d783-b28d-4db7-a357-98eb1c57c4ec)
+<img height=30% width=50% src="https://github.com/ROHITJAIND/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/118707073/9b00d783-b28d-4db7-a357-98eb1c57c4ec">
 
 ### Name:   ROHIT JAIN D
 ### Register Number: 212222230120
